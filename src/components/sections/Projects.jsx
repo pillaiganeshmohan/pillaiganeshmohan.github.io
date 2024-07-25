@@ -78,14 +78,14 @@ function Projects() {
           
             <ProjectCard
               name="Anime Merchandise Website"
-              content="Anime Merchandise Website is an e-commerce website where we can buy various anime merch at affordable price. It features an Admin panel for managing products, users, and cart items. The site includes registration, login, add-to-cart, and checkout features."
+              content="Anime Merchandise Website is an affordable e-commerce site for anime merch. It features an Admin panel for managing products, users, and cart items. The site includes registration, login, add-to-cart, and checkout features."
               link='https://github.com/pillaiganeshmohan/Anime-Merchandise-Website.git'
             />
         
           
             <ProjectCard
               name="E-Learning Website"
-              content="E-Learning Website is a comprehensive online education platform. It features an Admin panel for managing courses, videos, comments, quizzes, and users, and a User panel for registration, login, accessing lecture notes and videos, and taking timed assessments."
+              content="E-Learning Website is a comprehensive online education platform. It has an Admin panel for managing courses, videos, comments, quizzes, and users. The User panel includes registration, login, access to lecture notes and videos, and timed assessments."
               link='https://github.com/pillaiganeshmohan/E-Learning-Website.git'
             />
           
